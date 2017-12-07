@@ -1,7 +1,7 @@
 # SAY HELLO TO HX
 
 ### 0. Demo
-![demo](https://imgur.com/a/7G2MO)
+![demo](https://i.imgur.com/reodkNt.png)
 
 ### 1. 介绍
 SAY HELLO TO HX 是一个简单的HTML程序。
